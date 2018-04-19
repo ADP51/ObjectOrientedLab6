@@ -1,0 +1,23 @@
+Dinner Guest: John
+	Spinach Dip                    	 $ 14.00
+	Sparkling Water                	 $  4.00
+	Striploin Steak                	 $ 28.00
+	Tiramisu                       	 $ 14.00
+
+Dinner Guest: Patrick
+	Beer                           	 $  8.00
+	Burger                         	 $ 16.00
+
+Dinner Guest: 053096
+	Beer                           	 $  8.00
+	Club Sandwich                  	 $ 16.00
+
+Dinner Guest: ~~~
+	Coke                           	 $  6.00
+	Club Sandwich                  	 $ 16.00
+	Chocolate Brownie              	 $ 12.00
+
+	Subtotal                       	 $142.00
+	Happy Hour Discount            	 $  0.00
+	HST 15%                        	 $ 21.30
+	Total                          	 $163.30

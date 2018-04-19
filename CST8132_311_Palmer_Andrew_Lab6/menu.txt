@@ -1,0 +1,16 @@
+Drinks,6.0,Coke
+Drinks,8.0,Beer
+Drinks,10.0,Wine
+Drinks,4.0,Sparkling Water
+Appetizers,14.0,Spinach Dip
+Appetizers,16.0,Wings,
+Appetizers,16.0,Nachos
+Appetizers,12.0,Cheese Sticks
+Entrees,16.0,Burger
+Entrees,16.0,Club Sandwich
+Entrees,14.0,Chicken Salad
+Entrees,28.0,Striploin Steak
+Desserts,14.0,Tiramisu
+Desserts,12.0,Chocolate Brownie
+Desserts,14.0,Gelato
+Desserts,14.0,Churros
